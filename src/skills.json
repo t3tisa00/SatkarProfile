@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "title": "HTML5 / CSS / BootStrap",
+      "info": "Frontend",
+      "percentage": 100
+    },
+    {
+      "title": "React",
+      "info": "Fronend",
+      "percentage": 60
+    },
+    {
+      "title": "CMS (Wordpress)",
+      "info": "WOOCommerce",
+      "percentage": 90
+    },
+    {
+      "title": "php / mysql",
+      "info": "Backend",
+      "percentage": 100
+    }
+  ]
+}

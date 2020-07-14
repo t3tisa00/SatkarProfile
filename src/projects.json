@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "Madi Agro Farm",
+      "description": "Website for an Agro paultry farm in Nepal",
+      "technical": "html/css/Php",
+      "link": "https://www.madiagro.com.np/"
+    },
+    {
+      "title": "SivousSiisti",
+      "description": "Website for cleaning Company in Finland",
+      "technical": "html/css/Php",
+      "link": "http://www.cleaningcompany.epizy.com/cleaningcompany/"
+    },
+    {
+      "title": "MaulaKalika Hospital",
+      "description": "Simple Website for hositpal in Nepal",
+      "technical": "html/css/Php",
+      "link": "www.google.com"
+    },
+    {
+      "title": "MaulaKalika Hospital",
+      "description": "Simple Website for hositpal in Nepal",
+      "technical": "html/css/Php",
+      "link": "www.google.com"
+    },
+    {
+      "title": "MaulaKalika Hospital",
+      "description": "Simple Website for hositpal in Nepal",
+      "technical": "html/css/Php",
+      "link": "www.google.com"
+    },
+    {
+      "title": "MaulaKalika Hospital",
+      "description": "Simple Website for hositpal in Nepal",
+      "technical": "html/css/Php",
+      "link": "www.google.com"
+    }
+  ]
+}
